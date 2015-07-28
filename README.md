@@ -4,3 +4,5 @@ To develop a standardized way to represent general solutions to commonly encount
 
 The repository contains examples of the four Design Patterns : 
 singleton; command; decorator; strategy
+
+PS - The repository is an export from Eclipse.
